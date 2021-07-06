@@ -18,12 +18,21 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 
-- 👋 Hi, I’m @venkat.
-I am interested work on Python and C lanuage.
 
-#Learning
 
-#Hope
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!---
