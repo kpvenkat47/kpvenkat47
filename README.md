@@ -1,4 +1,4 @@
-Hi, I'm Pitchaiah Venkat K 👋
+# Hi, I'm Venkat KP 👋
 
 Python Engineer | Data Engineering | Developer Tooling
 
@@ -6,13 +6,13 @@ Python Engineer with 5+ years of experience building data pipelines, ETL systems
 
 I enjoy solving data-processing and performance problems and building practical tools with Python.
 
-💡 What I Build
+## 💡 What I Build
 
 - Data Pipelines & ETL — Efficient data processing and transformation systems
 - Developer Tools — Code analysis, quality automation, and repository intelligence
 - Local AI & LLM — Local LLM applications, RAG systems, and code intelligence
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages & Core: Python · SQL · Linux · Git
 
@@ -20,9 +20,9 @@ Data & ETL: Pandas · NumPy · ETL · Data Pipelines · Data Processing
 
 Engineering: AWS · Code Quality & Static Analysis · Performance Optimization
 
-AI & Developer Tools: LLM Applications · RAG · ChromaDB · Vector Search · AST / Code Analysis
+AI & Developer Tools: LLM Applications · RAG · VectorDB · Vector Search · AST / Code Analysis 
 
-🚀 Featured Project
+## 🚀 Featured Project
 
 Python Code Quality Checker
 
@@ -30,18 +30,27 @@ A Python CLI tool that brings multiple code-quality and static-analysis tools to
 
 Black · isort · Flake8 · Pylint · MyPy
 
-"View Project →" (https://github.com/kpvenkat47/python-code-quality-checker)
-
-🐼 Open Source
-
-Contributor to pandas, one of the most widely used Python data-analysis libraries.
-
-"View Pandas →" (https://github.com/pandas-dev/pandas)
-
-🤝 Connect
-
-"LinkedIn" (https://www.linkedin.com/in/pitchaiah-venkat-k-279a26216) · "GitHub" (https://github.com/kpvenkat47)
+[View Project →](https://github.com/kpvenkat47/python-code-quality-checker)
 
 ---
 
-Python Engineer focused on data engineering, performance optimization, developer tooling, and practical AI solutions.
+## 🐼 Open Source Contributor
+
+**Pandas** — Bug fixes & features in Python's most-used data library.  
+[View my contributions →](https://github.com/pandas-dev/pandas/commits?author=kpvenkat47)
+
+---
+
+## 📌 Currently
+
+Building practical solutions around data engineering, performance optimization, code intelligence, and local LLM applications.
+
+Exploring better ways to make Python systems faster, more reliable, and easier to understand.
+
+**Open to roles in:** ETL systems · Data infrastructure · Developer tooling
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/pitchaiah-venkat-k-279a26216) · [GitHub](https://github.com/kpvenkat47)
