@@ -1,51 +1,47 @@
-# Hi, I'm Pitchaiah Venkat K 👋
+Hi, I'm Pitchaiah Venkat K 👋
 
-Python Engineer with 5+ years of experience building robust data pipelines, ETL systems, and developer tools across banking and industrial domains.
+Python Engineer | Data Engineering | Developer Tooling
 
-## 🛠️ What I Work On
+Python Engineer with 5+ years of experience building data pipelines, ETL systems, automation, and developer tools across banking and industrial domains.
 
-- 🐍 Python development & automation
-- 📊 Data pipelines, ETL & data processing
-- ⚡ Performance optimization (Pandas, NumPy, SQL)
-- 🤖 Local LLM applications & RAG systems
-- 🔍 Code intelligence, AST analysis & impact analysis
-- 🧰 Developer tooling & repository analysis
+I enjoy solving data-processing and performance problems and building practical tools with Python.
 
-## 🧰 Tech Stack
+💡 What I Build
 
-### Languages & Core
-- Python
-- SQL
-- Linux
+- Data Pipelines & ETL — Efficient data processing and transformation systems
+- Developer Tools — Code analysis, quality automation, and repository intelligence
+- Local AI & LLM — Local LLM applications, RAG systems, and code intelligence
 
-### Data Engineering
-- Pandas
-- NumPy
-- ETL Development
-- Data Processing & Automation
+🛠️ Tech Stack
 
-### AI & LLM
-- Local LLMs
-- RAG
-- ChromaDB
-- Vector Search
-- Prompt Engineering
+Languages & Core: Python · SQL · Linux · Git
 
-### Code Intelligence
-- AST Analysis
-- Dependency Mapping
-- Impact Analysis
-- Repository Knowledge Systems
+Data & ETL: Pandas · NumPy · ETL · Data Pipelines · Data Processing
 
-## 📊 GitHub Stats
+Engineering: AWS · Code Quality & Static Analysis · Performance Optimization
 
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpvenkat47&show_icons=true&theme=default)
+AI & Developer Tools: LLM Applications · RAG · ChromaDB · Vector Search · AST / Code Analysis
 
-## 🤝 Connect
+🚀 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pitchaiah-venkat-k-279a26216)
+Python Code Quality Checker
+
+A Python CLI tool that brings multiple code-quality and static-analysis tools together into a single workflow.
+
+Black · isort · Flake8 · Pylint · MyPy
+
+"View Project →" (https://github.com/kpvenkat47/python-code-quality-checker)
+
+🐼 Open Source
+
+Contributor to pandas, one of the most widely used Python data-analysis libraries.
+
+"View Pandas →" (https://github.com/pandas-dev/pandas)
+
+🤝 Connect
+
+"LinkedIn" (https://www.linkedin.com/in/pitchaiah-venkat-k-279a26216) · "GitHub" (https://github.com/kpvenkat47)
 
 ---
-📌 Open source contributor to [Pandas](https://github.com/pandas-dev/pandas)
 
-📌 Python Engineer passionate about building developer tools, repository intelligence systems, and practical AI solutions.
+Python Engineer focused on data engineering, performance optimization, developer tooling, and practical AI solutions.
