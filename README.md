@@ -1,6 +1,6 @@
 # Hi, I'm Venkat KP 👋
 
-Python Engineer | Data Engineering | Developer Tooling | Pandas Open Source Contributor
+Python Engineer | Data Engineering | Performance Optimization | Developer Tooling | Pandas Open Source Contributor
 
 Python Engineer with 5+ years of experience building data pipelines, ETL systems, automation, and developer tools across banking and industrial domains.
 
@@ -9,8 +9,11 @@ I enjoy solving data-processing and performance problems and building practical 
 ## 💡 What I Build
 
 - Data Pipelines & ETL — Efficient data processing and transformation systems
+- Performance Optimization — Improving Python, Pandas, SQL, and database workloads
 - Developer Tools — Code analysis, quality automation, and repository intelligence
 - Local AI & LLM — Local LLM applications, RAG systems, and code intelligence
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +24,8 @@ Data & ETL: Pandas · NumPy · ETL · Data Pipelines · Data Processing
 Engineering: AWS · Code Quality & Static Analysis · Performance Optimization
 
 AI & Developer Tools: LLM Applications · RAG · VectorDB · Vector Search · AST / Code Analysis 
+
+---
 
 ## 🚀 Featured Project
 
@@ -33,10 +38,9 @@ Black · isort · Flake8 · Pylint · MyPy
 [View Project →](https://github.com/kpvenkat47/python-code-quality-checker)
 
 ---
-
 ## 🐼 Open Source Contributor
 
-**Pandas** — Bug fixes & features in Python's most-used data library. 
+Contributed bug fixes and tests to the pandas open-source project, helping improve its data-processing functionality.
 
 ---
 
@@ -44,9 +48,7 @@ Black · isort · Flake8 · Pylint · MyPy
 
 Building practical solutions around data engineering, performance optimization, code intelligence, and local LLM applications.
 
-Exploring better ways to make Python systems faster, more reliable, and easier to understand.
-
-**Open to roles in:** ETL systems · Data infrastructure · Developer tooling
+**Open to roles in:** Python Engineering · Data Engineering · ETL · Data Infrastructure · Developer Tooling · Performance Engineering
 
 ---
 
