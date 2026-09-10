@@ -1,6 +1,6 @@
 # Hi, I'm Venkat KP 👋
 
-Python Engineer | Data Engineering | Developer Tooling
+Python Engineer | Data Engineering | Developer Tooling | Pandas Open Source Contributor
 
 Python Engineer with 5+ years of experience building data pipelines, ETL systems, automation, and developer tools across banking and industrial domains.
 
@@ -36,8 +36,7 @@ Black · isort · Flake8 · Pylint · MyPy
 
 ## 🐼 Open Source Contributor
 
-**Pandas** — Bug fixes & features in Python's most-used data library.  
-[View my contributions →](https://github.com/pandas-dev/pandas/commits?author=kpvenkat47)
+**Pandas** — Bug fixes & features in Python's most-used data library. 
 
 ---
 
